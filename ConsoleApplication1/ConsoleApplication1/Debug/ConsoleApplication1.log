@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+  Flat.cpp
+c:\users\burlachenko\desktop\consoleapplication1\consoleapplication1\flat.cpp(8): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  House.cpp
+  Room.cpp
+  Street.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\Burlachenko\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
